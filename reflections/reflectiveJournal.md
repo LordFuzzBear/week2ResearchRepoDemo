@@ -9,7 +9,7 @@ Visual programming lets users create programs by manipulating program elements g
 ### What are some programming principles that you have discovered?
 
 ### Can you share your favourite Scratch project that you have made or remixed?
-[Here is a basic pong game](https://scratch.mit.edu/projects/717595495/)
+[Here](https://scratch.mit.edu/projects/717595495/) is a basic pong game.
 ## Week 2:
 
 ### What is git?
