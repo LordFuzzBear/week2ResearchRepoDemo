@@ -7,7 +7,7 @@ Scratch is a high-level block-based programming language and website.
 ### What is visual programming?
 Visual programming lets users create programs by manipulating program elements graphically rather than by specifying them textually.
 ### What are some programming principles that you have discovered?
-
+One of the principles of programming I have learned is to keep code simple. Generally, the more simple and clear the code, the better. It is easier to work with, and easier for other people to read. Also known as K.I.S.S (Keep it simple, stupid). In one of the first lectures I attended, Roman mentioned D.R.Y (Don't repeat yourself). Though I have little experience with coding so far, I have found some exercises that require lines of code to be fixed, or values to change. Learning ways to make data changeable without repeating lines of code is a valuable skill. It means less code in general
 ### Can you share your favourite Scratch project that you have made or remixed?
 [Here](https://scratch.mit.edu/projects/717595495/) is a basic pong game.
 ## Week 2:
@@ -24,9 +24,17 @@ if month == "January" or month == "March" or month == "May" or month == "July" o
 elif month == "April" or month == "June" or month == "September" or month == "November":
     print("There are 30 days in",month + ".")
 elif month == "February":
-    print("There are 28 days in",month +", or 29 days on a leap year.")
+    print("There are 28 days in February, or 29 days on a leap year.")
     
-**_This is a very long and drawn out way to write this code, I need to practice with lists!!_**
+**_While this code ulitmately gets the job done, it is a very long and drawn out way to write it! I need to practice with lists!!_**
+
+
+
+
+
+
+
+
 
 ### Prompts
 
