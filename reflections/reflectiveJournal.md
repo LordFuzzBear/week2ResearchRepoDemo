@@ -25,6 +25,18 @@ GitHub is an Internet hosting service for software development and version contr
 
 ### Activity 1
 #### Write a Python program that calculates a dog's age in dog's years.
+age = float(input("How old is your dog in human years? "))
+if age == 2:
+    print("Your dog is", 10.5, "years old")
+elif age > 2:
+    print("Your dog is", (age-2)*4 + 21, "years old")
+elif age <= 1:
+    print("your dog is a puppy")
+elif age >1 and age <2:
+    print("your dog is an adolescent")
+    
+**_-Note: I worked on this code with a class mate._**
+
 
 ### Activity 2 
 #### Write a Python program to convert month name to a number of days.
@@ -37,6 +49,18 @@ elif month == "February":
     print("There are 28 days in February, or 29 days on a leap year.")
    
 **_-Note: While this code ulitmately gets the job done, it is a very long and drawn out way to write it! I'd like to practice with lists. I am still proud of myself for having come up with a working code off the top of my head, though :)_**
+**_-Note: I asked a peer who is more knowledgeable about python, and they helped me get a better understanding of lists. I like how much more concise this following code is:_**
+
+month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
+month_28_29 =['February']
+month_30 =['April', 'June', 'September', 'November']
+birth_month= input("Which month would you like to know the length of? ")
+if birth_month in month_31:
+    print("There are 31 days in",birth_month + ".")
+elif birth_month in month_30:
+    print("There are 30 days in",birth_month + ".")
+elif birth_month in month_28_29:
+    print("There are 28 days in February, or 29 days on a leap year")
 
 
 ### Activity 3
