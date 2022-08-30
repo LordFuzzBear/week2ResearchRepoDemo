@@ -7,7 +7,7 @@ Scratch is a high-level block-based programming language and website.
 ### What is visual programming?
 Visual programming lets users create programs by manipulating program elements graphically rather than by specifying them textually.
 ### What are some programming principles that you have discovered?
-One of the principles of programming I have learned is to keep code simple. Generally, the more simple and clear the code, the better. It is easier to work with, and easier for other people to read. Also known as K.I.S.S (Keep it simple, stupid). In one of the first lectures I attended, Roman mentioned D.R.Y (Don't repeat yourself). Though I have little experience with coding so far, I have found some exercises that require lines of code to be fixed, or values to change. Learning ways to make data changeable without repeating lines of code is a valuable skill. It means less code in general
+One of the principles of programming I have learned is to keep code simple. Generally, the more simple and clear the code, the better. It is easier to work with, and easier for other people to read. Also known as K.I.S.S (Keep it simple, stupid). In one of the first lectures I attended, Roman mentioned D.R.Y (Don't repeat yourself). Though I have little experience with coding so far, this principle makes sense and seems to relate to K.I.S.S.. Duplication of data, logic, or function in code not only makes your code lengthy but also wastes a lot of time when it comes to maintaining, debugging or modifying the code. If you need to make a small change in your code then you need to do it at several places. D.R.Y. aims to reduce the repetition of code. It states that a piece of code should be implemented in just one place in the source code. When looking into this, I found it funny to learn that the opposite of the DRY principle is WET “write everything twice” or “waste everyone's time".
 ### Can you share your favourite Scratch project that you have made or remixed?
 [Here](https://scratch.mit.edu/projects/717595495/) is a basic pong game.
 ## Week 2:
@@ -18,6 +18,7 @@ Git is software for tracking changes in any set of files, usually used for coord
 GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 ## Week 3 Python tasks:
 
+#### **Lab task 1** 
 month = input("Which month would you like to know the length of? ")
 if month == "January" or month == "March" or month == "May" or month == "July" or month == "August" or month == "October" or month == "December":
     print("There are 31 days in",month + ".")
