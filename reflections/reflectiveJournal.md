@@ -88,7 +88,7 @@ num_2= int(input("Enter second number "))
 if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
     print(num_1 * num_2 )
 
-**_-Note: Another short and sweet one! I find that creating a successful code, no matter how simple, is very satisfying and boosts my coding confidence.
+**_-Note: Another short and sweet one! I find that creating a successful code, no matter how simple, is very satisfying and boosts my coding confidence._**
 
 
 ### Activity 5
@@ -97,7 +97,7 @@ if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
 
 
 
-**_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I know I'm not articualting myself in the clearest way, but after doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it does it!". 
+**_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I know I'm not articualting myself in the clearest way, but after doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it does it!"._**
 
 
 ### Prompts
