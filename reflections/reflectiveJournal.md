@@ -52,7 +52,7 @@ elif month == "February":
    
 **_-Note: While this code ulitmately gets the job done, it is a very long and drawn out way to write it! I'd like to practice with lists. I am still proud of myself for having come up with a working code off the top of my head, though :)_**
 
-**_-Note: I asked a peer who is more knowledgeable about python, and they helped me get a better understanding of lists. I like how much more concise this following code is:_**
+**_-Note: I asked a peer who is more knowledgeable about python, and they helped me get a better understanding of lists. While they're both about the same length, here is another way to write this code:_**
 
 month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
 month_28_29 =['February']
