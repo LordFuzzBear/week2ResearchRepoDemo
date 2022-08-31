@@ -63,7 +63,7 @@ if birth_month in month_31:
 elif birth_month in month_30:
     print("There are 30 days in",birth_month + ".")
 elif birth_month in month_28_29:
-    print("There are 28 days in February, or 29 days on a leap year")
+    print("There are 28 days in February, or 29 days on a leap year.")
 
 
 ### Activity 3
