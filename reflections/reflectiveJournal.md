@@ -80,6 +80,26 @@ else:
 **_-Note: I was pleasantly surprised with how easy this one was! I had a little read up on canvas and saw this ".isdigit" function. With a little trial and error, I was able to write a nice, short code that gets the job done._**
 
 
+### Activity 4
+#### Write a Python program that ask user to input two numbers. Check if both numbers are divisible by 2 or 3, if yes multiply them and print them on screen. If not, add them and then print it on screen. 
+
+num_1= int(input("Enter first number: "))
+num_2= int(input("Enter second number "))
+if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
+    print(num_1 * num_2 )
+
+**_-Note: Another short and sweet one! I find that creating a successful code, no matter how simple, is very satisfying and boosts my coding confidence.
+
+
+### Activity 5
+#### Write a menu driven Python program that give user options to perform temperature conversion. Your code should be able to convert temperature from Celsius to Fahrenheit and vice versa.
+
+
+
+
+**_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I know I'm not articualting myself in the clearest way, but after doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it does it!". 
+
+
 ### Prompts
 
 #### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
