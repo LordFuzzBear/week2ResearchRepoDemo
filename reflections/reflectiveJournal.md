@@ -25,6 +25,7 @@ GitHub is an Internet hosting service for software development and version contr
 
 ### Activity 1
 #### Write a Python program that calculates a dog's age in dog's years.
+
 age = float(input("How old is your dog in human years? "))
 if age == 2:
     print("Your dog is", 10.5, "years old")
@@ -40,6 +41,7 @@ elif age >1 and age <2:
 
 ### Activity 2 
 #### Write a Python program to convert month name to a number of days.
+
 month = input("Which month would you like to know the length of? ")
 if month == "January" or month == "March" or month == "May" or month == "July" or month == "August" or month == "October" or month == "December":
     print("There are 31 days in",month + ".")
@@ -67,9 +69,15 @@ elif birth_month in month_28_29:
 ### Activity 3
 #### Write a Python program to check a string represent an integer or not.
 
+text = input("Input a string: ")
 
+if text.isdigit():
+    print("The string is an integer.")
 
+else:
+    print("The string is not an integer.")
 
+**_-Note: I was pleasantly surprised with how easy this one was! I had a little read up on canvas and saw this ".isdigit" function. With a little trial and error, I was able to write a nice, short code that gets the job done._**
 
 
 ### Prompts
