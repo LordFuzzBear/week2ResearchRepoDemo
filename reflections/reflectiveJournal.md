@@ -1,7 +1,7 @@
 # Reflective Journal
 
 ## 🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟 Week 1 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟
-
+## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 1 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
 
 ### What is Scratch?
 Scratch is a high-level block-based programming language and website.
