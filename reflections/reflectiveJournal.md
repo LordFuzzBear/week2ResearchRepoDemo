@@ -21,7 +21,7 @@ Git is software for tracking changes in any set of files, usually used for coord
 GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
 
-## Week 3 Python tasks:
+## Week 3: Python tasks
 
 ### Activity 1
 * **Write a Python program that calculates a dog's age in dog's years.**
