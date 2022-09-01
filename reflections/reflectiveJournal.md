@@ -1,6 +1,6 @@
 # Reflective Journal
 
-## Week 1:
+## ⭐ Week 1 ⭐
 
 
 ### What is Scratch?
@@ -13,7 +13,7 @@ One of the principles of programming I have learned is to keep code simple. Gene
 [Here](https://scratch.mit.edu/projects/717595495/) is a basic pong game.
 
 
-## Week 2:
+## ⭐ Week 2 ⭐
 
 ### What is git?
 Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
@@ -21,7 +21,7 @@ Git is software for tracking changes in any set of files, usually used for coord
 GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
 
-## Week 3: Python tasks
+## ⭐ Week 3: Python tasks ⭐
 
 ### Activity 1
 * **Write a Python program that calculates a dog's age in dog's years.**
@@ -116,7 +116,7 @@ elif "2" in temp:
 **_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I may not be articualting myself in the clearest way, but when doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it's done!"._**
 
 
-## Week 4: Python activities continued
+## ⭐ Week 4: Python activities continued ⭐
 
 ### Activity 6
 * **Write a Python program that takes distance and time as input and displays the speed in: meters per second, kilometers per hour, and miles per hour.**
@@ -142,12 +142,12 @@ print("Your speed in miles/h is: ", miles / hr_total)
 
 
 
-## Week 5:
+## ⭐ Week 5 ⭐
 
 Agile.
 
 
-## Week 6:
+## ⭐ Week 6 ⭐
 
 ### Prompts
 
