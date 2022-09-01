@@ -104,7 +104,7 @@ elif "2" in temp:
     celsius = ((fahrenheit - 32) *5 / 9)
     print(str(fahrenheit) + "° Fahrenheit is equivalent to", str(celsius) + "° Celsius")
     
-**_-Note: Another satisfying code! I can be quite a meticulous person, so I really enjoyed combing out the finer (potentially unnecessary) details, for example: The comma in python creates a space, whereas the '+' does not! When I added in the '°' symbol, in all the places where I have the '+', initially I had a comma. I didn't want there to be a space between the integer and the '°' (e.g. 30° not 30 °). However, when I changed this, it gave me back an error!! It then took me a minute to realize that I needed to put the 'str' function in front of the integers as Python was trying to read it like an equation._**
+**_-Note: Another satisfying code! I can be quite a meticulous person, so I really enjoyed combing out the finer (potentially unnecessary) details, for example: The comma in python creates a space, whereas the '+' does not! When adding in the '°' symbol, all the places where I have the '+' initially had a comma. I didn't want there to be a space between the integer and the '°' (e.g. 30° not 30 °). However, when I changed this, it gave me back an error!! It then took me a minute to realize that I needed to put the 'str' function in front of the integers as Python was trying to read it like an equation._**
 
 **_-Note: Although I have added in the option "Enter '3' to quit", I am still unsure as to how to do this! I will be looking into it._**
 
