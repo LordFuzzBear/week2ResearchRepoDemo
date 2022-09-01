@@ -38,7 +38,7 @@ elif age >1 and age <2:
     
 **_-Note: I worked on this code with a class mate._**
 
-★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆
+★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★⋆☆⋆★
 
 ### Activity 2 
 * **Write a Python program to convert month name to a number of days.**
