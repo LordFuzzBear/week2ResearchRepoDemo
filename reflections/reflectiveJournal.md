@@ -52,7 +52,7 @@ elif month == "February":
    
 **_-Note: While this code ulitmately gets the job done, it is a very long and drawn out way to write it! I'd like to practice with lists. I am still proud of myself for having come up with a working code off the top of my head, though :)_**
 
-**_-Note: I asked a peer who is more knowledgeable about python, and they helped me get a better understanding of lists. While they're both about the same length, here is another way to write this code:_**
+**_-Note: I asked a peer who is more knowledgeable about python, and they helped me get a better understanding of lists. While they're both about the same length, I think this code is a bit more clear:_**
 
 month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
 month_28_29 =['February']
@@ -94,15 +94,41 @@ if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
 ### Activity 5
 #### Write a menu driven Python program that give user options to perform temperature conversion. Your code should be able to convert temperature from Celsius to Fahrenheit and vice versa.
 
+temp = input("Enter '1' to convert Celsius to Fahrenheit\nEnter '2' to convert Fahrenheit to Celsius\nEnter '3' to quit: ")
+if "1" in temp:
+    celsius = float(input("Enter the temperature in Celsius: "))
+    fahrenheit = celsius*1.8+32
+    print(str(celsius) + "° celsius is equivalent to " + str(fahrenheit) + "° fahrenheit")
+elif "2" in temp:
+    fahrenheit = float(input("Enter the temperature in Fahrenheit: "))
+    celsius = ((fahrenheit - 32) *5 / 9)
+    print(str(fahrenheit) + "° Fahrenheit is equivalent to", str(celsius) + "° Celsius")
+    
+**_-Note: Another satisfying code! I can be quite a meticulous person, so I really enjoyed combing out the finer (potentially unnecessary) details, for example: The comma in python creates a space, whereas the '+' does not! When I added in the '°' symbol, in all the places where I have the '+', initially I had a comma. I didn't want there to be a space between the integer and the '°' (e.g. 30° not 30 °). However, when I changed this, it gave me back an error!! It then took me a minute to realize that I needed to put the 'str' function in front of the integers as Python was trying to read it like an equation._**
+
+**_-Note: Although I have added in the option "Enter '3' to quit", I am still unsure as to how to do this! I will be looking into it._**
 
 
+**_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I may not be articualting myself in the clearest way, but when doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it's done!"._**
 
-**_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I know I'm not articualting myself in the clearest way, but after doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it does it!"._**
 
+## Week 4: Python activities continued
+
+### Activity 6
+#### Write a Python program that takes distance and time as input and displays the speed in: meters per second, kilometers per hour, and miles per hour.
+
+
+## Week 5:
+
+Agile.
+
+
+## Week 6:
 
 ### Prompts
 
 #### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+To be quite honest, I don't think forgetting to take breaks is an issue for me. While I'm not proud of it and need to work on it, for as long as I can remember I have always been a procrastinator! I am somewhat time-blind, and the importance of getting tasks done only becomes apparent to me as the deadline closes in!
 
 #### What is Timeboxing? Have you heard of it before? Will you use it?
 
