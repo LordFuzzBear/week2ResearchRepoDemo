@@ -13,7 +13,7 @@ One of the principles of programming I have learned is to keep code simple. Gene
 [Here](https://scratch.mit.edu/projects/717595495/) is a basic pong game.
 
 
-## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟 Week 2 ⭐🌟
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟 Week 2 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟
 
 ### What is git?
 Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
