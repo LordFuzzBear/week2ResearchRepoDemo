@@ -24,7 +24,7 @@ GitHub is an Internet hosting service for software development and version contr
 ## Week 3 Python tasks:
 
 ### Activity 1
-#### * Write a Python program that calculates a dog's age in dog's years.
+* **Write a Python program that calculates a dog's age in dog's years.**
 
 age = float(input("How old is your dog in human years? "))
 if age == 2:
