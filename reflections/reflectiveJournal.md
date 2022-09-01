@@ -116,7 +116,7 @@ elif "2" in temp:
 **_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I may not be articualting myself in the clearest way, but when doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it's done!"._**
 
 
-## ⭐ Week 4: Python activities continued ⭐
+## 🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟 Week 4: Python activities continued 🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟
 
 ### Activity 6
 * **Write a Python program that takes distance and time as input and displays the speed in: meters per second, kilometers per hour, and miles per hour.**
@@ -142,12 +142,12 @@ print("Your speed in miles/h is: ", miles / hr_total)
 
 
 
-## ⭐ Week 5 ⭐
+## 🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟 Week 5 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟
 
 Agile.
 
 
-## ⭐ Week 6 ⭐
+## 🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟 Week 6 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟
 
 ### Prompts
 
