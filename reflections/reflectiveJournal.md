@@ -27,28 +27,20 @@ GitHub is an Internet hosting service for software development and version contr
 * **Write a Python program that calculates a dog's age in dog's years.**
 
 age = float(input("How old is your dog in human years? "))
-
 if age == 2:
-
     print("Your dog is", 10.5, "years old")
-    
 elif age > 2:
-
     print("Your dog is", (age-2)*4 + 21, "years old")
-    
 elif age <= 1:
-
     print("your dog is a puppy")
-    
-⋅elif age >1 and age <2:
-
+elif age >1 and age <2:
     print("your dog is an adolescent")
     
 **_-Note: I worked on this code with a class mate._**
 
 
 ### Activity 2 
-#### Write a Python program to convert month name to a number of days.
+* **Write a Python program to convert month name to a number of days.**
 
 month = input("Which month would you like to know the length of? ")
 if month == "January" or month == "March" or month == "May" or month == "July" or month == "August" or month == "October" or month == "December":
@@ -75,7 +67,7 @@ elif birth_month in month_28_29:
 
 
 ### Activity 3
-#### Write a Python program to check a string represent an integer or not.
+* **Write a Python program to check a string represent an integer or not.**
 
 text = input("Input a string: ")
 
@@ -89,7 +81,7 @@ else:
 
 
 ### Activity 4
-#### Write a Python program that ask user to input two numbers. Check if both numbers are divisible by 2 or 3, if yes multiply them and print them on screen. If not, add them and then print it on screen. 
+* **Write a Python program that ask user to input two numbers. Check if both numbers are divisible by 2 or 3, if yes multiply them and print them on screen. If not, add them and then print it on screen.**
 
 num_1= int(input("Enter first number: "))
 num_2= int(input("Enter second number "))
@@ -100,7 +92,7 @@ if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
 
 
 ### Activity 5
-#### Write a menu driven Python program that give user options to perform temperature conversion. Your code should be able to convert temperature from Celsius to Fahrenheit and vice versa.
+* **Write a menu driven Python program that give user options to perform temperature conversion. Your code should be able to convert temperature from Celsius to Fahrenheit and vice versa.**
 
 temp = input("Enter '1' to convert Celsius to Fahrenheit\nEnter '2' to convert Fahrenheit to Celsius\nEnter '3' to quit: ")
 if "1" in temp:
@@ -123,7 +115,26 @@ elif "2" in temp:
 ## Week 4: Python activities continued
 
 ### Activity 6
-#### Write a Python program that takes distance and time as input and displays the speed in: meters per second, kilometers per hour, and miles per hour.
+* **Write a Python program that takes distance and time as input and displays the speed in: meters per second, kilometers per hour, and miles per hour.**
+
+meters = input("Input distance (meters): ")
+hr = input("Input time (hours): ")
+min = input("Input time (minutes): ")
+sec = input("Input time (seconds): ")
+hr_total = float(hr) + (float(min) / 60) + ((float(sec) / 60) / 60)
+sec_total = ((float(hr) * 60) * 60) + (float(min) * 60) + float(sec)
+kms = float(meters) / 1000
+miles = float(meters) / 1609.344
+print("Your speed in meters/sec is:", float(meters) / sec_total)
+print("Your speed in km/h is: ", kms / hr_total)
+print("Your speed in miles/h is: ", miles / hr_total)
+
+**_-Note: This one took me longer than it probably should have haha, I need to brush up on my maths skills. So many conversions! Very nice to see it working in action once completed though._**
+
+
+### Activity 7
+* **Write a Python program that takes 10 numbers as input from user and find their sum and average.**
+
 
 
 ## Week 5:
