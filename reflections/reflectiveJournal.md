@@ -27,15 +27,7 @@ GitHub is an Internet hosting service for software development and version contr
 ### Activity 1
 * **Write a Python program that calculates a dog's age in dog's years.**
 
-age = float(input("How old is your dog in human years? "))
-if age == 2:
-    print("Your dog is", 10.5, "years old")
-elif age > 2:
-    print("Your dog is", (age-2)*4 + 21, "years old")
-elif age <= 1:
-    print("your dog is a puppy")
-elif age >1 and age <2:
-    print("your dog is an adolescent")
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%201.py)
     
 **_-Note: I worked on this code with a class mate._**
 
