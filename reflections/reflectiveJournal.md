@@ -113,6 +113,7 @@ elif "2" in temp:
 
 **_-Note: Although I have added in the option "Enter '3' to quit", I am still unsure as to how to do this! I will be looking into it._**
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 **_-Note: I've found it so interesting to learn these codes! Even though they are simple, it's fascinating to learn the "behind the scenes" of, for example, a web page. Having used computers for the majority of my life, I've never really questioned how computing actually works. I may not be articualting myself in the clearest way, but when doing these exercises and some self-directed study, I constantly find myself thinking "Ohhh, that's how it's done!"._**
 
@@ -193,7 +194,10 @@ It is the most commonly practised model in software development, as it "introduc
 2. Another benefit (that I can relate to) is that the Agile model promotes productivity. As the developers are working in small increments, the work is more   manageable. The "finish line" of any prototype is always in sight. I believe I, and many others, would work better in these conditions.
 3. As the Agile model is focused on customer collaberation, it only makes sense that the satisfaction of the customer is higher. They are able to constantly share their expectations, and continuously make changes as the development progresses.
 
-**What is an MVP
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
+**What is an M.V.P.?**
+M.V.P. stands for: Minimum Viable Product. Keeping within the spirit of Agile, M.V.P. is the first iteration of a product or solution that is useable. It contains enough features and is of a high enough quality that your customer can test it out and provide feedback, or you could be attracting your first set of customers. The main purpose of an M.V.P. is to gather feedback and information with the least amount of effort and money.
 
 
 ## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 6 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
@@ -201,7 +205,7 @@ It is the most commonly practised model in software development, as it "introduc
 ### Prompts
 
 #### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-To be quite honest, I don't think forgetting to take breaks is an issue for me. While I'm not proud of it and need to work on it, for as long as I can remember I have always been a procrastinator! I am somewhat time-blind, and the importance of getting tasks done only becomes apparent to me as the deadline closes in!
+
 
 #### What is Timeboxing? Have you heard of it before? Will you use it?
 
