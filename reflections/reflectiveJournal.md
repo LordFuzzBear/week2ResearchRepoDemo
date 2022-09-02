@@ -189,19 +189,19 @@ I have only tried to meditate, and failed. It is on my to-do list, as I know it 
 
 #### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
-I feel a little embarrassed to say that the only thing I would consider myself to have mastered are some video games! I think the word mastery holds a lot of power. To me, mastery means the best of the best, and by my own standards, I don't think I've mastered anything. But I've 100%'d many video games! I'm not _very_ embarrassed, because they do require some coordination, patience and memory! I also think that, with many things, video games are great in moderation, they make me happy and are a form of escapism.
+I feel a little embarrassed to say that the only thing I would consider myself to have mastered are some video games! I think the word mastery holds a lot of power. To me, mastery means the best of the best, and by my own standards, I don't think I've mastered anything. But I've 100%'d many video games! I'm not _very_ embarrassed, because they do require some coordination, patience and memory! I also think that, like many things, video games are great in moderation, they make me happy and are a form of escapism.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Do you consider yourself a developer yet?
 
-Very simply put: no, I do not consider myself a developer yet (unless beginner/novice developer counts). Maybe after I finish my project assignment I will feel differently about this question.
+Very simply put: no, I do not consider myself a developer yet (unless beginner/novice developer counts). Maybe after I finish my assignment project I will feel differently about this question.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
-I highly value creativity. I'm not sure if you've heard of the Myers Briggs personality test, but my personality type is known to be very creative and idealistic. Not to share too much information, but A.D.H.D. runs in my family, and it's a well known trait to be very creative! (It's also a very well-known trait to procrastinate and not get things done, even hobbies that we love, so that is actively fighting against my creative output). I'm not sure that I see creativity as a value in itself, but I do think it is a very important part of life, so maybe in that sense it could be a value. I am not sure that I know how to answer the last part of this question.
+I highly value creativity. I'm not sure if you've heard of the Myers Briggs personality test, but my personality type is known to be very creative and idealistic. Not to share too much information, but A.D.H.D. runs in my family, and it's a well known trait to be very creative! (It's also a very well-known trait to procrastinate and not get things done, even hobbies that we love, so that is actively fighting against my creative output). I have many hobbies, and all of them are creative. I'm not sure that I see creativity as a value in itself, but I do think it is a very important part of life, so maybe in that sense it could be a value. I am not sure that I know how to answer the last part of this question.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
@@ -237,64 +237,72 @@ In a perfect world I would have read all of the content on canvas, but alas, thi
 
 #### What is polymorphism?
 
-✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
-
-#### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
-
-✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
-
-#### What is an MVP? How would you describe it to a group of 6 year olds?
+This is another term that I have never heard of before, so I searched it up. Polymorphism is the ability for a message to be displayed in more than one form. A real-life example of polymorphism is a person who at the same time can have different characteristics. Like a man at the same time is a father, a husband and an employee.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is the hardest problem you have solved so far?
 
+Definitely either [this activity](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%206.py) (there were so many cobwebs in that part of my brain), or trying to figure out how to add my Python code from PyCharm to Github! I feel like it should have been much easier than it was. I definitely find myself resonating with Murphy's Law quite a lot lately haha.
+
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is pair programming?
+
+I've never heard of this before, so I looked it up. Peer programming is when two people share a computer to work on one code together as a team! Teamwork, I like this idea! I also can see this going badly if one person has trouble sharing control.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What are you looking forward to learning about programming?
 
+ I would like to learn some visual coding/programming because I would love to implement my own artwork, I think that would be very cool. Beyond that, I would love for this to take place in some cute little basic game (potential project?).
+
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is conscious listening?
+
+To me, conscious listening is taking in what the person is saying, trying to relate to it, and trying to withold judgement. Showing that you are listening (e.g. making eye contact, nodding, the occasional "yeah") is an important part of being a good listener. 
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is a variable?
 
+A variable is a value that can change depending on the conditions in the program. I've heard of a variable being called a container that holds data, this data can change or _vary_. 
+
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What programming languages are you interested in learning? Why?
+
+I am interested in learning HTML, Javascript, and C# because I know they are very commonly used and it will increase my software development knowledge (which will increase my chances of landing a job in this area).
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is something kind that someone has done for you?
 
-✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
-
-#### If you were describing programming to someone who knows nothing about it, what would you say?
-
-✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
-
-#### Which parts of this course made you feel doubtful of your own innate ability?
+Very often my flatmate cooks me a delicious dinner! I appreciate it very much.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is a fixed mindset?
 
+I think that a fixed mindset is one that is not open to change (or it would take a lot of convincing to change). I don't think that having a fixed mindset is necessarily a bad thing, in fact I think it's important to have things that you will never change your mindset about (e.g. thinking murder is wrong). But for the not so extreme topics, I think that having a fixed mindset sets you back. Everybody has biases, but you should always be willing to see things from another perspective, and not be afraid of being wrong.
+
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is something kind you have done for someone else?
+
+'Acts of service' is how I show people that I care. I quite often like to make my flat mate a nice hot drink in the morning. It's nothing big, but I know it is appreciated.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Have you done mindfulness or attention training before?
 
+While I haven't done attention training (I'm not entirely sure that I know what it is), I do some mindfulness activities in the form of a Gratitude Journal. It is actually a scientifically proven method of improving your mental well-being. It changes your perception about the quality of your life. We can very easily focus on all the negative things going on, which in turn overshadow all of the positive things. Gratitude journaling helps to bring your focus back to the good things.
+
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Have you developed a habit of persevering?
+
+Hmm, in some situations, yes. But I'm definitely not immune to giving up when I feel overwhelmed and I know the consequences aren't too bad. I would like to persevere more in my life!
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
