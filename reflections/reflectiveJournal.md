@@ -211,7 +211,7 @@ Today I have had about 7 different tabs open, but now only 3. I am _very_ prone 
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
-#### What is an IDE?
+#### What is an I.D.E.?
 
 This is one of the very first programming terms I learnt (by the way, my self-directed python study has been on a wonderful app called Sololearn), and it means Integrated Development Enviroment. I don't have an expert definition, but as far as I know, they are places where you can write and run/test your code. My I.D.E. of choice has been PyCharm.
 
@@ -223,7 +223,7 @@ I think the most challenging part of this course has been getting myself to put 
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
-#### What is OOP?
+#### What is O.O.P.?
 
 O.O.P stands for object-oriented programming. I have heard of this term quite a few times, but I have never been able to fully understand what it means. I think when I see more examples it will become more clear to me.
 
