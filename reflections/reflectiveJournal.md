@@ -281,17 +281,19 @@ This is one of the very first programming terms I learnt (by the way, my self-di
 
 #### So far, what was the hardest moment of this course for you?
 
+I think the most challenging part of this course has been getting myself to put in the time! Admittedly, I get in my own way, and I always have whenever it regards learning. Procrastination is my middle name, I am working to fix this. For the most part, I really enjoy the challenges when I get around to doing them. An alternative answer to this question would be that I find some of the different teaching styles hard to go with, but I am new to study so I think it will become easier as time goes on.
+
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is OOP?
+
+O.O.P stands for object-oriented programming. I have heard of this term quite a few times, but I have never been able to fully understand what it means. I think when I see more examples it will become more clear to me.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Are you using the canvas content? Do you find it helpful or tedious?
 
-✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
-
-#### Which parts of the work did you find tedious?
+In a perfect world I would have read all of the content on canvas, but alas, this is not so. I do wish I was that person though! I have referred to it many times for specific topics though, and I do find it helpful! It has a lot of good information. 
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
