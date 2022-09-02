@@ -207,9 +207,9 @@ main purpose of an M.V.P. is to gather feedback and information with the least a
 
 ### Prompts
 
-* **Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?**
-  Yes
+#### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
+I didn't think I would have a problem with forgetting to take breaks, however, it is easier than I expected to get caught up in studying or writing code, and not notice the time passing by. In an effort to implement healhy study habits, I now set a timer for 25 mintues of uninterrupted concentration, followed by 5 minutes of relaxing/doing something else.
 
 #### What is Timeboxing? Have you heard of it before? Will you use it?
 
