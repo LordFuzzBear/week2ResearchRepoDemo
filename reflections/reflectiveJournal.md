@@ -1,5 +1,7 @@
 # Reflective Journal
 
+_I hope you don't mind my use of symbols throughout this journal. If it were a physical journal of mine, it would have much more embellishments! I'm very fond of making things visually appealing, and being creative._
+
 ## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 1 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
 
 ### What is Scratch?
@@ -139,6 +141,39 @@ print("Your speed in miles/h is: ", miles / hr_total)
 ### Activity 7
 * **Write a Python program that takes 10 numbers as input from user and find their sum and average.**
 
+Sum = 0
+print("Please enter 10 numbers\n")
+for i in range (1,11):
+    num = int(input("Number %d = " %i))
+    Sum = Sum + num
+
+avg = Sum / 10
+
+print("The sum of these numbers equals:", Sum)
+print("The average of these numbers equals:", avg)
+
+**_-Note: A slightly more difficult one for myself, combining different functions that I have just learned in some self-directed study. I like the use of %d and %i, a placeholder to specify integer values. Implementing loops is still new to me, I had to do a little bit of research and still have much learning to do! I'm also still not confident with lists, which I would like to use in this code, so I need to do some more practice._**
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
+### Activity 8
+* **Write a program in Python Sharp to display the multiplication table of a given integer.**
+
+print("Multiplication Table (up to 10)")
+num = int(input("Enter a number: "))
+for y in range(1,11):
+    print(num,"x", y, "=", num*y)
+    
+**_-Note: This one was a lot more simple, and I probably should be using it irl (I don't know all of my times tables). I'm also not sure what "Python Sharp" is! Is that how you get a table format?_**
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
+### Graphs
+
+This week in class there was a mention of graphs, but I couldn't see anything written about it on canvas. I know it was said that we don't have to know what graphs are, but hearing that other people had already written about it prompted me to do my own research. My initial knowledge of graphs was limited to pie charts and bar graphs, however I knew that this was unlikely to be what Roman was talking about. So after looking into what graphs are with a class mate, here is my new found understanding:
+Graphs are a type of data structure (a way to store and organize data) that are commonly used in computer science. A graph is a collection of objects called nodes or vertices, that a connected with lines that are called edges. Graphs can be directed (sometimes known as a digraph), or undirected. A directed graph is named such because the connection, the edge, between each of the nodes goes only one way (Node "A" --> node "B"). This can be demonstarted with web pages: The web pages (with unique URL's) are the nodes. One web page(A) may have a link (the edge) to another web page(B), but it is likely that web page B will not contain a link to web page A. There are, of course, exceptions to this. The example of an undirected graph that was shown to me is a social network. For example: Facebook users are the nodes, and if two users are friends, this is the edge between them. This is an undirected edge because if User A is friends with User B, User B must also be friends with User A.
+
+I observed online that my peers on campus were to make a video graph. (This is a side note, but my bad social anxiety is a reason I am drawn to IT. I will admit that I am thankful that I was not there, as being made to be the centre of attention in any way, peaks stress for someone like me. It freaks me out when we a put on the spot and made to speak in front of the whole class, or forced to interact.) I spoke to one of my class mates who did physically attend this class, and I think I have an okay understanding. They were to video one person, while being videoed by another person, and so on, until somebody moves out of frame. In this circumstance, the people are the nodes, and the video is the directed edge between them. I think it is a directed graph because it needs to be more than 3 people participating (no two people are videoing each other). Video only goes one way.
 
 
 ## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 5 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
