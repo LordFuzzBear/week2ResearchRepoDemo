@@ -197,6 +197,7 @@ It is the most commonly practised model in software development, as it "introduc
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 **What is an M.V.P.?**
+
 M.V.P. stands for: Minimum Viable Product. Keeping within the spirit of Agile, M.V.P. is the first iteration of a product or solution that is useable. It contains 
 enough features and is of a high enough quality that your customer can test it out and provide feedback, or you could be attracting your first set of customers. The 
 main purpose of an M.V.P. is to gather feedback and information with the least amount of effort and money.
@@ -206,7 +207,8 @@ main purpose of an M.V.P. is to gather feedback and information with the least a
 
 ### Prompts
 
-#### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+* **Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?**
+  Yes
 
 
 #### What is Timeboxing? Have you heard of it before? Will you use it?
