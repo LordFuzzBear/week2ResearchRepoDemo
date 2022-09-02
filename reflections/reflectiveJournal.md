@@ -173,12 +173,27 @@ for y in range(1,11):
 This week in class there was a mention of graphs, but I couldn't see anything written about it on canvas. I know it was said that we don't have to know what graphs are, but hearing that other people had already written about it prompted me to do my own research. My initial knowledge of graphs was limited to pie charts and bar graphs, however I knew that this was unlikely to be what Roman was talking about. So after looking into what graphs are with a class mate, here is my new found understanding:
 Graphs are a type of data structure (a way to store and organize data) that are commonly used in computer science. A graph is a collection of objects called nodes or vertices, that a connected with lines that are called edges. Graphs can be directed (sometimes known as a digraph), or undirected. A directed graph is named such because the connection, the edge, between each of the nodes goes only one way (Node "A" --> node "B"). This can be demonstarted with web pages: The web pages (with unique URL's) are the nodes. One web page(A) may have a link (the edge) to another web page(B), but it is likely that web page B will not contain a link to web page A. There are, of course, exceptions to this. The example of an undirected graph that was shown to me is a social network. For example: Facebook users are the nodes, and if two users are friends, this is the edge between them. This is an undirected edge because if User A is friends with User B, User B must also be friends with User A.
 
-I observed online that my peers on campus were to make a video graph. (This is a side note, but my bad social anxiety is a reason I am drawn to IT. I will admit that I am thankful that I was not there, as being made to be the centre of attention in any way, peaks stress for someone like me. It freaks me out when we a put on the spot and made to speak in front of the whole class, or forced to interact.) I spoke to one of my class mates who did physically attend this class, and I think I have an okay understanding. They were to video one person, while being videoed by another person, and so on, until somebody moves out of frame. In this circumstance, the people are the nodes, and the video is the directed edge between them. I think it is a directed graph because it needs to be more than 3 people participating (no two people are videoing each other). Video only goes one way.
+I observed online that my peers on campus were to make a video graph. (This is a side note, but my bad social anxiety is a reason I am drawn to IT. I will admit that I am thankful that I was not there, as being made to be the centre of attention in any way, peaks stress for someone like me. It is anxiety-inducing to be put on the spot and made to speak in front of the whole class, or forced to interact.) I spoke to one of my class mates who did physically attend this class, and I think I have an okay understanding. They were to video one person, while being videoed by another person, and so on, until somebody moves out of frame. In this circumstance, the people are the nodes, and the video is the directed edge between them. I think it is a directed graph because it needs to be more than 3 people participating (no two people are videoing each other). Video only goes one way.
 
 
 ## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 5 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
                                             
-Agile.
+### About Agile
+
+Agile is a set of values and principles, or a collection of beliefs, that can be used as a foundation for making decisions about how to do the work of developing software. In the short Agile manifesto, it is stated that software can be developed better by valuing items on the left side over the items on the right side. These items are as follows:
+* Individuals and interactions over processes and tools
+* Working software over comprehensive documentation
+* Customer collaboration over contract negotiation
+* Responding to change above following a plan
+
+It is the most commonly practised model in software development, as it "introduces the concept of fast delivery to customers using a prototyping approach". This prototyping approach is to divide the whole project into smaller chunks with specific features that can be developed quickly. The customer then gives feedback so that the prototype can be changed, or the development team can move on to the next prototype containing a new feature. 
+
+**Three advantages of using the Agile model instead of the Waterfall model are:**
+1. One benefit is the speed at which problems with the prototypes can be identified, and in turn how quickly and efficiently solutions can be created.
+2. Another benefit (that I can relate to) is that the Agile model promotes productivity. As the developers are working in small increments, the work is more   manageable. The "finish line" of any prototype is always in sight. I believe I, and many others, would work better in these conditions.
+3. As the Agile model is focused on customer collaberation, it only makes sense that the satisfaction of the customer is higher. They are able to constantly share their expectations, and continuously make changes as the development progresses.
+
+**What is an MVP
 
 
 ## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 6 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
