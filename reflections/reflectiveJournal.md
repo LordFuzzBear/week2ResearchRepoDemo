@@ -123,15 +123,15 @@ elif "2" in temp:
 ### Activity 6
 * **Write a Python program that takes distance and time as input and displays the speed in: meters per second, kilometers per hour, and miles per hour.**
 
-meters = input("Input distance (meters): ")
-hr = input("Input time (hours): ")
-min = input("Input time (minutes): ")
-sec = input("Input time (seconds): ")
-hr_total = float(hr) + (float(min) / 60) + ((float(sec) / 60) / 60)
-sec_total = ((float(hr) * 60) * 60) + (float(min) * 60) + float(sec)
-kms = float(meters) / 1000
-miles = float(meters) / 1609.344
-print("Your speed in meters/sec is:", float(meters) / sec_total)
+meters = float(input("Input distance (meters): "))
+hr = float(input("Input time (hours): "))
+min = float(input("Input time (minutes): "))
+sec = float(input("Input time (seconds): "))
+hr_total = hr + (min / 60) + ((sec / 60) / 60)
+sec_total = ((hr * 60) * 60) + (min * 60) + sec
+kms = meters / 1000
+miles = meters / 1609.344
+print("Your speed in meters/sec is:", meters / sec_total)
 print("Your speed in km/h is: ", kms / hr_total)
 print("Your speed in miles/h is: ", miles / hr_total)
 
@@ -211,76 +211,150 @@ main purpose of an M.V.P. is to gather feedback and information with the least a
 
 I didn't think I would have a problem with forgetting to take breaks, however, it is easier than I expected to get caught up in studying or writing code, and not notice the time passing by. In an effort to implement healhy study habits, I now set a timer for 25 mintues of uninterrupted concentration, followed by 5 minutes of relaxing/doing something else.
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What is Timeboxing? Have you heard of it before? Will you use it?
+
+I have not yet heard of Timeboxing, I'll be back after I research: I have learned that Timeboxing is a concept used in the Scrum framework, used to allot a certain amount of time to a particular task within a project. This ensures that the team will not spend too much or too little time/effort on said task.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### On a a 0-5 scale, how confident are you with each of the assignments?
 
+I'd probably say my confidence for this assignment is a 4/5, only because I naturally have a lot of self-doubt, and I believe there is always room for improvement! My current confidence for the project assignment is probably also a 4/5, because I'm still not the best coder, but I'm very excited to create something!
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What are of you proud of up to this point in the course?
 
-#### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
+I'm most proud of how much Python I've learnt in my own time, as my past studying skills were never good. This time around I definitely applied myself more and took the time to learn. It is pretty daunting to learn coding, as when you first start, it's basically a foreign language and looks like nonsense. I'm by no means close to knowing everything about Python, but it doesn't seem like nonsense anymore.
 
-
-#### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is Python?
 
+This is the very first definition I learned: Python is a high-level general-purpose programming language. High-level means that it is easier to read and more similar to english. I have learnt that Python is one of the most popular choices when it comes to coding, and is used in many different ways/places.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### Have you developed a habit of exploring?
+
+I suppose it depends on the context. I have most definitely become more explorative in the world of coding, I've watched many hours of tutorials (not that I remember half of what they taught). The more I explore, the more I learn, the more intrigued I become, and so on! I'm excited to see where this takes me.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Have you meditated before?
 
+I have only tried to meditate, and failed. It is on my to-do list, as I know it is very beneficial for many people. I'm sure that if I implemented it into my daily life, it would likely reduce my anxiety! Or help me to think differently about my thoughts and behaviour. However, it is easier said than done, and requires much practice to become good at it.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+
+I feel a little embarrassed to say that the only thing I would consider myself to have mastered are some video games! I think the word mastery holds a lot of power. To me, mastery means the best of the best, and by my own standards, I don't think I've mastered anything. But I've 100%'d many video games! I'm not _very_ embarrassed, because they do require some coordination, patience and memory! I also think that, with many things, video games are great in moderation, they make me happy and are a form of escapism.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Do you consider yourself a developer yet?
 
+Very simply put: no, I do not consider myself a developer yet (unless beginner/novice developer counts). Maybe after I finish my project assignment I will feel differently about this question.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+
+I highly value creativity. I'm not sure if you've heard of the Myers Briggs personality test, but my personality type is known to be very creative and idealistic. Not to share too much information, but A.D.H.D. runs in my family, and it's a well known trait to be very creative! (It's also a very well-known trait to procrastinate and not get things done, even hobbies that we love, so that is actively fighting against my creative output). I'm not sure that I see creativity as a value in itself, but I do think it is a very important part of life, so maybe in that sense it could be a value. I am not sure that I know how to answer the last part of this question.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
-#### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+Today I have had about 7 different tabs open, but now only 3. I am _very_ prone to getting distracted (A.D.H.D. strikes again), so I keep my leasure/non-study-related tabs in a different window and minimize it. I'm not a huge fan of keeping tabs open, so there is only 1 tab open on that window. I don't think this is a bragging right or anything, because I would say that my phone is generally my biggest distraction.
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is an IDE?
 
-#### What did you learn out of the Marshmallow Challenge?
+This is one of the very first programming terms I learnt (by the way, my self-directed python study has been on a wonderful app called Sololearn), and it means Integrated Development Enviroment. I don't have an expert definition, but as far as I know, they are places where you can write and run/test your code. My I.D.E. of choice has been PyCharm.
 
-#### Did you have any blocks during this challenge? How did you overcome them?
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### So far, what was the hardest moment of this course for you?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What is OOP?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Are you using the canvas content? Do you find it helpful or tedious?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### Which parts of the work did you find tedious?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is polymorphism?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is an MVP? How would you describe it to a group of 6 year olds?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What is the hardest problem you have solved so far?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is pair programming?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What are you looking forward to learning about programming?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is conscious listening?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What is a variable?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What programming languages are you interested in learning? Why?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What is something kind that someone has done for you?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### If you were describing programming to someone who knows nothing about it, what would you say?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### Which parts of this course made you feel doubtful of your own innate ability?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### What is a fixed mindset?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### What is something kind you have done for someone else?
+
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Have you done mindfulness or attention training before?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
+
 #### Have you developed a habit of persevering?
 
+✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
