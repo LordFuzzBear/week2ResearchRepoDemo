@@ -1,6 +1,6 @@
 # Reflective Journal
 
-_I hope you don't mind my use of symbols throughout this journal. If it were a physical journal of mine, it would have much more embellishments! I'm very fond of making things visually appealing, and being creative._
+_I hope you don't mind my use of symbols throughout this journal. If it were a physical journal of mine, it would have much more embellishments! I'm very fond of making things visually appealing._
 
 ## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 1 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
 
