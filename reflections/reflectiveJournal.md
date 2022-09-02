@@ -36,41 +36,20 @@ You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blo
 ### Activity 2 
 * **Write a Python program to convert month name to a number of days.**
 
-month = input("Which month would you like to know the length of? ")
-if month == "January" or month == "March" or month == "May" or month == "July" or month == "August" or month == "October" or month == "December":
-    print("There are 31 days in",month + ".")
-elif month == "April" or month == "June" or month == "September" or month == "November":
-    print("There are 30 days in",month + ".")
-elif month == "February":
-    print("There are 28 days in February, or 29 days on a leap year.")
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%202.py)
    
 **_-Note: While this code ulitmately gets the job done, it is a very long and drawn out way to write it! I'd like to practice with lists. I am still proud of myself for having come up with a working code off the top of my head, though :)_**
 
 **_-Note: I asked a peer who is more knowledgeable about python, and they helped me get a better understanding of lists. While they're both about the same length, I think this code is a bit more clear:_**
 
-month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
-month_28_29 =['February']
-month_30 =['April', 'June', 'September', 'November']
-birth_month= input("Which month would you like to know the length of? ")
-if birth_month in month_31:
-    print("There are 31 days in",birth_month + ".")
-elif birth_month in month_30:
-    print("There are 30 days in",birth_month + ".")
-elif birth_month in month_28_29:
-    print("There are 28 days in February, or 29 days on a leap year.")
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%202.1.py)
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 ### Activity 3
 * **Write a Python program to check a string represent an integer or not.**
 
-text = input("Input a string: ")
-
-if text.isdigit():
-    print("The string is an integer.")
-
-else:
-    print("The string is not an integer.")
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%203.py)
 
 **_-Note: I was pleasantly surprised with how easy this one was! I had a little read up on canvas and saw this ".isdigit" function. With a little trial and error, I was able to write a nice, short code that gets the job done._**
 
@@ -79,10 +58,7 @@ else:
 ### Activity 4
 * **Write a Python program that ask user to input two numbers. Check if both numbers are divisible by 2 or 3, if yes multiply them and print them on screen. If not, add them and then print it on screen.**
 
-num_1= int(input("Enter first number: "))
-num_2= int(input("Enter second number "))
-if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
-    print(num_1 * num_2 )
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%204.py)
 
 **_-Note: Another short and sweet one! I find that creating a successful code, no matter how simple, is very satisfying and boosts my coding confidence._**
 
@@ -91,15 +67,7 @@ if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
 ### Activity 5
 * **Write a menu driven Python program that give user options to perform temperature conversion. Your code should be able to convert temperature from Celsius to Fahrenheit and vice versa.**
 
-temp = input("Enter '1' to convert Celsius to Fahrenheit\nEnter '2' to convert Fahrenheit to Celsius\nEnter '3' to quit: ")
-if "1" in temp:
-    celsius = float(input("Enter the temperature in Celsius: "))
-    fahrenheit = celsius*1.8+32
-    print(str(celsius) + "° celsius is equivalent to " + str(fahrenheit) + "° fahrenheit")
-elif "2" in temp:
-    fahrenheit = float(input("Enter the temperature in Fahrenheit: "))
-    celsius = ((fahrenheit - 32) *5 / 9)
-    print(str(fahrenheit) + "° Fahrenheit is equivalent to", str(celsius) + "° Celsius")
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%205.py)
     
 **_-Note: Another satisfying code! I can be quite a meticulous person, so I really enjoyed combing out the finer (potentially unnecessary) details, for example: The comma in python creates a space, whereas the '+' does not! When adding in the '°' symbol, all the places where I have the '+' initially had a comma. I didn't want there to be a space between the integer and the '°' (e.g. 30° not 30 °). However, when I changed this, it gave me back an error!! It then took me a minute to realize that I needed to put the 'str' function in front of the integers as Python was trying to read it like an equation._**
 
@@ -115,17 +83,7 @@ elif "2" in temp:
 ### Activity 6
 * **Write a Python program that takes distance and time as input and displays the speed in: meters per second, kilometers per hour, and miles per hour.**
 
-meters = float(input("Input distance (meters): "))
-hr = float(input("Input time (hours): "))
-min = float(input("Input time (minutes): "))
-sec = float(input("Input time (seconds): "))
-hr_total = hr + (min / 60) + ((sec / 60) / 60)
-sec_total = ((hr * 60) * 60) + (min * 60) + sec
-kms = meters / 1000
-miles = meters / 1609.344
-print("Your speed in meters/sec is:", meters / sec_total)
-print("Your speed in km/h is: ", kms / hr_total)
-print("Your speed in miles/h is: ", miles / hr_total)
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%206.py)
 
 **_-Note: This one took me longer than it probably should have haha, I need to brush up on my maths skills. So many conversions! Very nice to see it working in action once completed though._**
 
@@ -134,16 +92,7 @@ print("Your speed in miles/h is: ", miles / hr_total)
 ### Activity 7
 * **Write a Python program that takes 10 numbers as input from user and find their sum and average.**
 
-Sum = 0
-print("Please enter 10 numbers\n")
-for i in range (1,11):
-    num = int(input("Number %d = " %i))
-    Sum = Sum + num
-
-avg = Sum / 10
-
-print("The sum of these numbers equals:", Sum)
-print("The average of these numbers equals:", avg)
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%207.py)
 
 **_-Note: A slightly more difficult one for myself, combining different functions that I have just learned in some self-directed study. I like the use of %d and %i, a placeholder to specify integer values. Implementing loops is still new to me, I had to do a little bit of research and still have much learning to do! I'm also still not confident with lists, which I would like to use in this code, so I need to do some more practice._**
 
@@ -152,10 +101,7 @@ print("The average of these numbers equals:", avg)
 ### Activity 8
 * **Write a program in Python Sharp to display the multiplication table of a given integer.**
 
-print("Multiplication Table (up to 10)")
-num = int(input("Enter a number: "))
-for y in range(1,11):
-    print(num,"x", y, "=", num*y)
+You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%208.py)
     
 **_-Note: This one was a lot more simple, and I probably should be using it irl (I don't know all of my times tables). I'm also not sure what "Python Sharp" is! Is that how you get a table format?_**
 
