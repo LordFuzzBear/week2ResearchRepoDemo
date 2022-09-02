@@ -5,7 +5,7 @@ _I hope you don't mind my use of symbols throughout this journal. If it were a p
 ## 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸 Week 1 🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮🌸💮
 
 ### What is Scratch?
-Scratch is a high-level block-based programming language and website.
+Scratch is a high-level block-based programming language and website. You can make some fun games on here.
 ### What is visual programming?
 Visual programming lets users create programs by manipulating program elements graphically rather than by specifying them textually.
 ### What are some programming principles that you have discovered?
@@ -109,7 +109,7 @@ You can find this code [here.](https://github.com/LordFuzzBear/LabActivities/blo
 
 ### Graphs
 
-This week in class there was a mention of graphs, but I couldn't see anything written about it on canvas. I know it was said that we don't have to know what graphs are, but hearing that other people had already written about it prompted me to do my own research. My initial knowledge of graphs was limited to pie charts and bar graphs, however I knew that this was unlikely to be what Roman was talking about. So after looking into what graphs are with a class mate, here is my new found understanding:
+This week in class there was a mention of graphs, but I couldn't see anything written about it on canvas. I know it was said that we don't have to know what graphs are, but hearing that other people had already written about it prompted me to do my own research. My initial knowledge of graphs was limited to pie charts and bar graphs, however I knew that this was unlikely to be what my teacher was talking about. So after looking into what graphs are with a class mate, here is my new found understanding:
 Graphs are a type of data structure (a way to store and organize data) that are commonly used in computer science. A graph is a collection of objects called nodes or vertices, that a connected with lines that are called edges. Graphs can be directed (sometimes known as a digraph), or undirected. A directed graph is named such because the connection, the edge, between each of the nodes goes only one way (Node "A" --> node "B"). This can be demonstarted with web pages: The web pages (with unique URL's) are the nodes. One web page(A) may have a link (the edge) to another web page(B), but it is likely that web page B will not contain a link to web page A. There are, of course, exceptions to this. The example of an undirected graph that was shown to me is a social network. For example: Facebook users are the nodes, and if two users are friends, this is the edge between them. This is an undirected edge because if User A is friends with User B, User B must also be friends with User A.
 
 I observed online that my peers on campus were to make a video graph. (This is a side note, but my bad social anxiety is a reason I am drawn to IT. I will admit that I am thankful that I was not there, as being made to be the centre of attention in any way, peaks stress for someone like me. It is anxiety-inducing to be put on the spot and made to speak in front of the whole class, or forced to interact.) I spoke to one of my class mates who did physically attend this class, and I think I have an okay understanding. They were to video one person, while being videoed by another person, and so on, until somebody moves out of frame. In this circumstance, the people are the nodes, and the video is the directed edge between them. I think it is a directed graph because it needs to be more than 3 people participating (no two people are videoing each other). Video only goes one way.
@@ -153,7 +153,7 @@ I didn't think I would have a problem with forgetting to take breaks, however, i
 
 #### What is Timeboxing? Have you heard of it before? Will you use it?
 
-I have not yet heard of Timeboxing, I'll be back after I research: I have learned that Timeboxing is a concept used in the Scrum framework, used to allot a certain amount of time to a particular task within a project. This ensures that the team will not spend too much or too little time/effort on said task.
+I have not yet heard of Timeboxing, I'll be back after I research: I have learned that Timeboxing is a concept used in the Scrum framework, used to allot a certain amount of time to a particular task within a project. This ensures that the team will not spend too much or too little time/effort on said task. I think that it is a good idea that I will use, and is almost like my study technique above.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
@@ -189,13 +189,13 @@ I have only tried to meditate, and failed. It is on my to-do list, as I know it 
 
 #### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
-I feel a little embarrassed to say that the only thing I would consider myself to have mastered are some video games! I think the word mastery holds a lot of power. To me, mastery means the best of the best, and by my own standards, I don't think I've mastered anything. But I've 100%'d many video games! I'm not _very_ embarrassed, because they do require some coordination, patience and memory! I also think that, like many things, video games are great in moderation, they make me happy and are a form of escapism.
+I feel a little embarrassed to say that the only thing I would consider myself to have mastered are some video games! I think the word mastery holds a lot of power. To me, mastery means the best of the best, and by my own standards, I don't think I've mastered anything. But I've 100%'d many video games! I'm not _very_ embarrassed, because they do require coordination, patience and memory! I also think that, like many things, video games are great in moderation, they make me happy and are a form of escapism.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
 #### Do you consider yourself a developer yet?
 
-Very simply put: no, I do not consider myself a developer yet (unless beginner/novice developer counts). Maybe after I finish my assignment project I will feel differently about this question.
+Very simply put: no. I do not consider myself a developer yet (unless beginner/novice developer counts). Maybe after I finish my assignment project I will feel differently about this question.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
@@ -243,7 +243,7 @@ This is another term that I have never heard of before, so I searched it up. Pol
 
 #### What is the hardest problem you have solved so far?
 
-Definitely either [this activity](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%206.py) (there were so many cobwebs in that part of my brain), or trying to figure out how to add my Python code from PyCharm to Github! I feel like it should have been much easier than it was. I definitely find myself resonating with Murphy's Law quite a lot lately haha.
+In this course, definitely either [this activity](https://github.com/LordFuzzBear/LabActivities/blob/master/Lab%20Activity%206.py) (there were so many cobwebs in that part of my brain), or trying to figure out how to add my Python code from PyCharm to Github! I feel like it should have been much easier than it was. I definitely find myself resonating with Murphy's Law quite a lot lately.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
@@ -291,7 +291,7 @@ I think that a fixed mindset is one that is not open to change (or it would take
 
 #### What is something kind you have done for someone else?
 
-'Acts of service' is how I show people that I care. I quite often like to make my flat mate a nice hot drink in the morning. It's nothing big, but I know it is appreciated.
+'Acts of service' is how I show people that I care. I quite often make my flat mate a nice hot chocolate in the morning. It's nothing big, but I know it is appreciated.
 
 ✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿•❀•✿
 
